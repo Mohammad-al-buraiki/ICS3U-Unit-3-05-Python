@@ -7,11 +7,11 @@
 
 def main():
     # this function shows the month that the user enters its number
-    
+
     # input
     number = int(input("Enter the month number: "))
     print("")
-    
+
     # process
     if number == 1:
         print("January")
